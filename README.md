@@ -6,3 +6,6 @@
     3. docker build -t node-util .
     4. docker run -it -v /Users/virus/Desktop/Backend/Docker/docker-from-scratch:/app node-util npm init
     
+### **Utilizing ENTRYPOINT**
+    1. docker build -t mynpm .
+    2. docker run -it -v /Users/virus/Desktop/Backend/Docker/docker-from-scratch:/app mynpm i express --save
