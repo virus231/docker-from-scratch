@@ -1,4 +1,4 @@
-Docker From Scratch
+# **Docker From Scratch**
 
 ### **Building a First Utility Container**
     1. docker build -t node-util .
